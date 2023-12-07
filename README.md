@@ -11,7 +11,8 @@ Welcome to my GitHub playground, where lines of code come to life! 🚀 As a pas
 - 🚀 Bringing ideas to life with the latest web technologies
 
 ## ❤️ What I got
-[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
+[![Codewars Badge](https://www.codewars.com/users/MaxAlieksieiev/badges/large)](https://www.codewars.com/users/MaxAlieksieiev)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxalieksieiev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxalieksieiev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
