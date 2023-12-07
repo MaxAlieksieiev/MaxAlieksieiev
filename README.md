@@ -10,15 +10,17 @@ Welcome to my GitHub playground, where lines of code come to life! 🚀 As a pas
 - 🎨 Translating design concepts into beautiful and functional websites
 - 🚀 Bringing ideas to life with the latest web technologies
 
+## ❤️ What I got
+[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxalieksieiev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxalieksieiev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## 🔧 Technologies & Tools
 
 - HTML, CSS, JavaScript (ES6+), Typescript
 - React.js, Angular, React-native
 - Material UI, Antd, Material Angular
 - REST API, GraphQL
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxalieksieiev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxalieksieiev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 📫 Let's Connect
 
